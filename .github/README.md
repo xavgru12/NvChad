@@ -1,3 +1,5 @@
+# NvChad with xavgru's custom configuration as submodule
+
 <h1 align="center">NvChad</h1>
 
 <div align="center">
