@@ -1,5 +1,16 @@
 # NvChad with xavgru's custom configuration as submodule
 
+clone xavgru's custom configuration
+
+- using ssh(github account with ssh keys required)
+```
+git clone git@github.com:xavgru12/NvChad.git --recurse-submodules ~/.config/nvim
+```
+- using hhtps
+```
+git clone https://github.com/xavgru12/NvChad.git --recurse-submodules ~/.config/nvim
+```
+
 <h1 align="center">NvChad</h1>
 
 <div align="center">
