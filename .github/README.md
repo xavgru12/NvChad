@@ -6,7 +6,7 @@ clone xavgru's custom configuration
 ```
 git clone git@github.com:xavgru12/NvChad.git --recurse-submodules ~/.config/nvim
 ```
-- using hhtps
+- using https
 ```
 git clone https://github.com/xavgru12/NvChad.git --recurse-submodules ~/.config/nvim
 ```
